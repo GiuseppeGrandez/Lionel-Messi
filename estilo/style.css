@@ -310,17 +310,18 @@ main {
 
 /* -------media queries fotos ------- */
 
-@media screen and (max-width: 1329px) {
+@media screen and (max-width: 1315px) {
     nav {
-        flex-direction: column;
+        justify-content: space-between;
         margin: 20px 20px;
         font-size: 5px;
 
     }
+    
 
 }
 
-@media screen and (max-width: 1118px) {
+@media screen and (max-width: 1335px) {
     .galeria {
         width: 100%;
         margin: auto;
@@ -332,14 +333,18 @@ main {
     }
 
     header nav ul {
-        display: none;
+        display: block;
+        
+       
     }
 
     .nombre-pagina {
-        font-size: 15px;
+        font-size: 39px;
     }
 
 }
+
+
 
 @media screen and (max-width: 681px) {
     .foga {
@@ -384,7 +389,7 @@ main {
 
 @media screen and (max-width: 1315px) {
     header nav ul {
-        display: none;
+        
     }
 
     .parrafo {
