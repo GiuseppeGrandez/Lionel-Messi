@@ -36,6 +36,14 @@ header nav {
 
 
 }
+.nombre-pagina:hover {
+    color: rgba(95, 233, 238, 0.418);
+
+
+}
+header nav ul li a:hover{
+    color: rgb(174, 174, 211);
+}
 
 
 header nav ul {
