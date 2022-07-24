@@ -334,12 +334,12 @@ main {
 
     header nav ul {
         display: block;
-        bottom: 50px;
+        
        
     }
 
     .nombre-pagina {
-        font-size: 40px;
+        font-size: 39px;
     }
 
 }
