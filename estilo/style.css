@@ -344,6 +344,8 @@ main {
 
 }
 
+
+
 @media screen and (max-width: 681px) {
     .foga {
         display: none;
@@ -387,7 +389,11 @@ main {
 
 @media screen and (max-width: 1315px) {
     header nav ul {
+<<<<<<< HEAD
         /*display: none;*/
+=======
+        
+>>>>>>> animaciones
     }
 
     .parrafo {
